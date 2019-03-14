@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/core/config/index.js"],"names":[],"mappings":";;;;;kBAAe;AACb,UAAQ,IADK;AAEb,cAAY,wCAFC;AAGb,eAAa;AAHA,C","file":"index.js","sourcesContent":["export default {\r\n  \"port\": 3000,\r\n  \"mongoURL\": \"mongodb://localhost:27017/express-demo\",\r\n  \"bodyLimit\": \"100mb\"\r\n};\r\n"]}
