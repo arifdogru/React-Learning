@@ -1,9 +1,6 @@
 import { Router } from "express";
 import User from "./user";
 
-/**
-* @author Alper Akalin
-*/
 
 export default ({
   config,
